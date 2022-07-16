@@ -1,0 +1,22 @@
+.button {
+    margin: 10px;
+    font-size: 34px;
+    font-weight: 800;
+    padding: 10px;
+    color: #282c34;
+    background-color: #61dafb;
+    border-radius: 8px;
+    margin: 20px;
+}
+
+.disabled {
+    margin: 10px;
+    font-size: 34px;
+    font-weight: 800;
+    padding: 10px;
+    color: #3c7385;
+    background-color: #61dafb;
+    border-radius: 8px;
+    margin: 20px;
+
+}

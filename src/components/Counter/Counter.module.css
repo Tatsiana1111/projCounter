@@ -1,0 +1,22 @@
+.counter {
+    margin: 20px;
+    font-size: 50px;
+    padding: 30px;
+    width: 210px;
+    height: 60px;
+    color: white;
+    background-color: #61dafb;
+    border-radius: 8px;
+}
+
+.maxValue {
+    margin: 20px;
+    font-size: 55px;
+    font-weight: bold;
+    padding: 30px;
+    width: 210px;
+    height: 60px;
+    color: red;
+    background-color: #61dafb;
+    border-radius: 8px;
+}
